@@ -1,0 +1,23 @@
+0.7
+2020.2
+Jun 10 2021
+19:45:28
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.sim/sim_1/behav/xsim/glbl.v,1623370582,verilog,,,,glbl,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sim_1/new/test_IF.v,1637937526,verilog,,,,test_IF,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sim_1/new/test_addder.v,1637933224,verilog,,,,test_addder,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sim_1/new/test_imm_gen.v,1638040202,verilog,,,,test_imm_gen,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sim_1/new/test_instruction_memory.v,1637928744,verilog,,,,test_instruction_memory,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sim_1/new/test_multiplexor_21.v,1637926522,verilog,,,,test_multiplexor_21,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sim_1/new/test_pc.v,1637927816,verilog,,,,test_pc,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sim_1/new/test_registers.v,1638034924,verilog,,,,test_registers,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/ID.v,1638123567,verilog,,/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/IF.v,,ID,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/IF.v,1637937641,verilog,,/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/PC.v,,IF,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/PC.v,1637927542,verilog,,/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/RISC_V_IF_ID.v,,PC,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/RISC_V_IF_ID.v,1638123010,verilog,,/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/adder.v,,RISC_V_IF_ID,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/adder.v,1638036126,verilog,,/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/imm_gen.v,,adder,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/imm_gen.v,1638123229,verilog,,/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/instruction_memory.v,,imm_gen,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/instruction_memory.v,1637928280,verilog,,/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/mux2_1.v,,instruction_memory,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/mux2_1.v,1637926476,verilog,,/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/pipe_IF_ID.v,,mux2_1,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/pipe_IF_ID.v,1638123253,verilog,,/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/registers.v,,pipe_IF_ID,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/My_RISC_V_Vivado/My_RISC_V/My_RISC_V.srcs/sources_1/new/registers.v,1638034829,verilog,,/home/gp/Facultate/CN2/Etapa 1 - RISC V/test_riscv.v,,registers,,,,,,,,
+/home/gp/Facultate/CN2/Etapa 1 - RISC V/test_riscv.v,1638123857,verilog,,,,RISC_V_TB,,,,,,,,
