@@ -1,0 +1,30 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../MyRiscV.srcs/sources_1/new/ALU.v" \
+"../../../../MyRiscV.srcs/sources_1/new/ALUcontrol.v" \
+"../../../../MyRiscV.srcs/sources_1/new/EX.v" \
+"../../../../MyRiscV.srcs/sources_1/new/EX_MEM_reg.v" \
+"../../../../MyRiscV.srcs/sources_1/new/ID.v" \
+"../../../../MyRiscV.srcs/sources_1/new/ID_EX_reg.v" \
+"../../../../MyRiscV.srcs/sources_1/new/IF.v" \
+"../../../../MyRiscV.srcs/sources_1/new/MEM_WB_reg.v" \
+"../../../../MyRiscV.srcs/sources_1/new/PC.v" \
+"../../../../MyRiscV.srcs/sources_1/new/RISC_V.v" \
+"../../../../MyRiscV.srcs/sources_1/new/adder.v" \
+"../../../../MyRiscV.srcs/sources_1/new/control_path.v" \
+"../../../../MyRiscV.srcs/sources_1/new/data_memory.v" \
+"../../../../MyRiscV.srcs/sources_1/new/forwarding.v" \
+"../../../../MyRiscV.srcs/sources_1/new/hazard_detection.v" \
+"../../../../MyRiscV.srcs/sources_1/new/if_id_pipe.v" \
+"../../../../MyRiscV.srcs/sources_1/new/imm_gen.v" \
+"../../../../MyRiscV.srcs/sources_1/new/instruction_memory.v" \
+"../../../../MyRiscV.srcs/sources_1/new/mux2_1.v" \
+"../../../../MyRiscV.srcs/sources_1/new/mux4_1.v" \
+"../../../../MyRiscV.srcs/sources_1/new/registers.v" \
+"../../../../MyRiscV.srcs/sim_1/new/RISC_V_TB.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
